@@ -7,7 +7,7 @@ Considere uma empresa bem estabelecida que atua no setor de varejo de alimentos.
 
 ![pairplot](images/pairplot_clusters.png)
 
-Projeto de ensino utilizado em curso de Ciência de Dados ministrado por mim para a [Hashtag Treinamentos](https://www.hashtagtreinamentos.com/). Baseado no processo seletivo para Analista de Dados do iFood disponível [neste repositório](https://github.com/ifood/ifood-data-business-analyst-test).
+Projeto de ensino utilizado em curso de Ciência de Dados ministrado por Francisco Bustamante para a [Hashtag Treinamentos](https://www.hashtagtreinamentos.com/). Baseado no processo seletivo para Analista de Dados do iFood disponível [neste repositório](https://github.com/ifood/ifood-data-business-analyst-test).
 
 Descrição completa do case [aqui](case/README.md).
 
@@ -104,3 +104,4 @@ O projeto foi desenvolvido utilizando o Python 3.11.5. Para reproduzir o projeto
 | Seaborn          | 0.12.2 |
 
 Essas são as bibliotecas principais utilizadas no projeto. O relatório foi gerado com a biblioteca [ydata-profiling](https://github.com/ydataai/ydata-profiling), instale-a se quiser reproduzir o relatório. 
+
